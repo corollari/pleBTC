@@ -96,3 +96,10 @@ This incentive problem could be solved by making the withdrawal transactions inc
 
 And CP was following the protocol until day 12, then CP would only be able to collude with owners B and C.
 
+## r/RoastMyProtocol
+
+If you find any problem with the protocol or just think that some part could be improved, feel free to critize it as much as you want. Any medium will work: email, github issues...
+
+## Gives me the shills
+
+Have you ever thought of adding a fiat onramp to your wallet/exchange/dApp? Please take a look at [the fiat onramp aggregator I'm building](https://onramper.com/) which provides a unified interface for a wide range of onramps in order to cover a lot of geographies and payment systems (it also add some extra nice-to-have features such as uptime-monitoring of the gateways, faster responses through caching, improved security...). Also, by integrating this product, you allow me to spend more time on obviously-non-commercial projects such as the one you are reading right now, which might not be that good but I hope it is.
